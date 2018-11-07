@@ -1,0 +1,7 @@
+apiVersion: song.com/v1
+kind: Demo
+metadata:
+  name: demo1
+spec:
+  name: sugare
+  age: 13
